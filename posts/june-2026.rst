@@ -1,4 +1,4 @@
-.. title: Next convention: 11-14 June 2026
+.. title: 18PDX 2026 - 11-14 June
 .. slug: 2026-june
 .. date: 2025-12-07 14:50:43 UTC-08:00
 .. tags: 2026
@@ -41,4 +41,4 @@ Reservations:
      - $25 for single days.
      - $75 for the entire weekend.
 
-Send feedback to info@getnikola.com!
+Send feedback to dave.blanchard1@comcast.net
