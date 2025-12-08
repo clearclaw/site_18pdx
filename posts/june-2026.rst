@@ -1,0 +1,44 @@
+.. title: Next convention: 11-14 June 2026
+.. slug: 2026-june
+.. date: 2025-12-07 14:50:43 UTC-08:00
+.. tags: 2026
+.. category: 18pxx
+.. link: https://18pdx.com/
+.. description: 18PDX 2026
+.. type: text
+
+{{% calendar %}}
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20251207T232722Z
+UID:1765149956469-22564@ical.marudot.com
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260615
+SUMMARY:18PDX 2026
+URL:https://18pdx.com/
+DESCRIPTION:18xx train gaming in Portland
+LOCATION:Hilton Garden Inn Portland Airport
+END:VEVENT
+END:VCALENDAR
+{{% /calendar %}}
+
+.. iframe:: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2793.199798278784!2d-122.53596510000001!3d45.5664206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5495a38c1a4c8b97%3A0xb2f209811da16305!2sHilton%20Garden%20Inn%20Portland%20Airport!5e0!3m2!1sen!2sus!4v1765144035944!5m2!1sen!2sus
+   :width: 600
+   :height: 450
+
+.. image:: /images/masthead.jpg
+   :alt: Games at 18PDX
+   :width: 80%
+
+Where: (Hilton Garden Inn Portland Airport)[https://www.hilton.com/en/hotels/pdxahgi-hilton-garden-inn-portland-airport/] (mention "18xx" for the discounted room rate)
+Reservations:
+
+
+   Paypal dave.blanchard1@comcast.net:
+     - $25 for single days.
+     - $75 for the entire weekend.
+
+Send feedback to info@getnikola.com!

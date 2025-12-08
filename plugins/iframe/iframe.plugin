@@ -1,0 +1,12 @@
+[Core]
+Name = rest_iframe
+Module = iframe
+
+[Documentation]
+Author = Francois Basson 
+Version = 0.0.1
+Website = https://gist.github.com/sadrok/af89f6bcff5bb703f8b2208289bc28ed
+Description = iFrame plugin
+
+[Nikola]
+PluginCategory = CompilerExtension
