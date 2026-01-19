@@ -13,9 +13,6 @@ Schedule
 
 (All times are `Pacific Daylight Time <https://www.timeanddate.com/time/zones/pdt>`__)
 
-.. image:: /images/streamliner.jpg
-   :align: right
-
 * Thursday, 11 June 2026 – 08:00 to 24:00
 * Friday, 12 June 2026 – 08:00 to 24:00
 * Saturday, 13 June 2026 – 08:00 to 24:00
