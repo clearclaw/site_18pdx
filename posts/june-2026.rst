@@ -25,10 +25,12 @@ Hotel
 .. _hotel: https://www.hilton.com/en/hotels/pdxahgi-hilton-garden-inn-portland-airport/
 
 `Hilton Garden Inn Portland Airport <hotel_>`__ 
-(mention "18xx" for the discounted room rate)
+(mention "18xx" for the `discounted room
+rate <https://group.hiltongardeninn.com/ddfptw>`__).  There is a
+free shuttle from the airport.
 
 .. iframe:: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2793.199798278784!2d-122.53596510000001!3d45.5664206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5495a38c1a4c8b97%3A0xb2f209811da16305!2sHilton%20Garden%20Inn%20Portland%20Airport!5e0!3m2!1sen!2sus!4v1765144035944!5m2!1sen!2sus
-   :width: 600
+   :width: 400
    :height: 450
 
 =====
@@ -36,17 +38,30 @@ Games
 =====
 
 A wide supply of 18xx games are commonly available, brought by
-attendees and local 18xx players' collections.  If there's something
-you particularly want to play, just ask and we can probably ensure it
-is there.  Several 18xx designers commonly also bring their prototypes
-to play and discuss.
+attendees and local 18xx players' collections.  There will be many
+different 18xx games at the convention, but if there's something you
+particularly want to play, bring it!  Several 18xx designers commonly
+also bring their prototypes to play and discuss.  Feel free to use the
+`18PDX Discord <https://discord.gg/z2cgE7wrDf>`__ to help plan and
+organise games.
+
+See the galleries for some of the `games played in prior years
+</galleries>`__.  
 
 
 =======
 Tickets
 =======
 
-Paypal dave.blanchard1@comcast.net:
+Paypal to `Dave Blanchard <https://www.paypal.com/paypalme/18pdx>`__.
+
+In advance, before 15 May:
 
 * $25 for single days.
 * $75 for the entire 4 days.
+
+After 15 May:
+
+* $35 per day.
+* $100 for the full 4 days.
+
