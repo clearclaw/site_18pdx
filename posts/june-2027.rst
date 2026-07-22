@@ -1,0 +1,66 @@
+.. title: 18PDX - 24-27 June 2027
+.. slug: 2027-june
+.. date: 2026-07-22 10:20:43 UTC-08:00
+.. tags: 2027
+.. category: 18pxx
+.. link: https://18pdx.com/
+.. description: 18PDX 2027
+.. type: text
+
+========
+Schedule
+========
+
+(All times are `Pacific Daylight Time <https://www.timeanddate.com/time/zones/pdt>`__)
+
+* Thursday, 24 June 2027 – 08:00 to 24:00
+* Friday, 25 June 2027 – 08:00 to 24:00
+* Saturday, 26 June 2027 – 08:00 to 24:00
+* Sunday, 27 June 2027 – 08:00 to 18:00
+
+=====
+Hotel
+=====
+
+.. _hotel: https://www.hilton.com/en/hotels/pdxahgi-hilton-garden-inn-portland-airport/
+
+`Hilton Garden Inn Portland Airport <hotel_>`__ 
+(mention "18xx" for the `discounted room
+rate <https://group.hiltongardeninn.com/ddfptw>`__).  There is a
+free shuttle from the airport.
+
+.. iframe:: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2793.199798278784!2d-122.53596510000001!3d45.5664206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5495a38c1a4c8b97%3A0xb2f209811da16305!2sHilton%20Garden%20Inn%20Portland%20Airport!5e0!3m2!1sen!2sus!4v1765144035944!5m2!1sen!2sus
+   :width: 400
+   :height: 450
+
+=====
+Games
+=====
+
+A wide supply of 18xx games are commonly available, brought by
+attendees and from local 18xx players' collections, but if there's
+something you particularly want to play, bring it!  Several 18xx
+designers commonly also bring their prototypes to play and discuss.
+Feel free to use the `18PDX Discord <https://discord.gg/uw6as37qMJ>`__
+to help plan and organise games.
+
+See the galleries for some of the `games played in prior years
+</galleries>`__.  
+
+
+=======
+Tickets
+=======
+
+Paypal to `Dave Blanchard <https://www.paypal.com/paypalme/18pdx>`__.
+
+In advance, before 15 May:
+
+* $25 for single days.
+* $75 for the entire 4 days.
+
+After 15 May:
+
+* $35 per day.
+* $100 for the full 4 days.
+

@@ -144,6 +144,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         # ("/archive.html", "Archive"),
         ("/galleries/", "Galleries"),
+        # ("/posts/", "Posts"),
         ("/rss.xml", "RSS feed"),
     ),
 }
